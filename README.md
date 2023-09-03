@@ -17,6 +17,9 @@
 7. Por fim, atente-se à organização: o uso de boas práticas, organização entre pastas e componentes e a refatoração do código é de extrema importância, visto que o seu código será avaliado. Logo, focar nesses pontos fará com que você tenha uma boa impressão.
 </p>
 
+<h2>Deploy:</h2>
+<p>https://workshop-frontend-2023-2-red.vercel.app</p>
+
 <h2>Segue abaixo a tela Incial:</h2>
 <img src="./img/indexreadme.png"/>
 
